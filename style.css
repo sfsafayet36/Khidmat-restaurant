@@ -95,7 +95,7 @@ nav ul li:hover {
   top: 80px;
   display: flex;
   align-items: center;
-  
+  justify-content: center;
 }
 
 #header-section h3 {
@@ -195,6 +195,7 @@ transition: 0.5s ease;
   width: 100%;
   background-color: var(--primary-color);
   display: flex;
+  justify-content: center;
 }
 #first-section .box1{
   height: 700px;
@@ -351,12 +352,15 @@ transition: 0.5s ease;
 }
 .upperbox{
   display: flex;
+  justify-content: center;
 }
 .lowerbox{
-  display: flex
+  display: flex;
+  justify-content: center;
 }
 .middlebox{
   display: flex;
+  justify-content: center;
 }
 .rev{
   height: 200px;

@@ -703,9 +703,10 @@ iframe{
   padding: 35px 10px
 }
 footer{
-  justify-content: center;
-  display: flex;
   align-items: center;
+}
+#footerlogo{
+  margin-top: 25px;
 }
 .left-box{
   overflow: hidden;
